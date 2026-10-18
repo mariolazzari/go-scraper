@@ -14,4 +14,5 @@ go build -o scraper
 ```sh
 go test ./...
 go run . https://learnwebscraping.dev/practice/ecommerce/
+go run . https://learnwebscraping.dev/practice/ecommerce/ 3 10
 ```

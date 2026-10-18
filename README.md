@@ -1,10 +1,10 @@
-# Go crawler
+# Go scraper
 
 ## Setup
 
 ```sh
-go mod init github.com/mariolazzari/go-crawler
-go build -o crawler
+go mod init github.com/mariolazzari/go-scraper
+go build -o scraper
 ```
 
 ## Unit tests
